@@ -1,5 +1,13 @@
+# Setting Up Amihan Server
 
-## Setup
+This guide will walk you through setting up and running the Amihan Server on your local machine.
+
+## Prerequesite
+ - [Docker](https://docs.docker.com/get-docker/)
+ - [MySQL](https://dev.mysql.com/doc/mysql-getting-started/en/)
+ - [MySQL Shell](https://dev.mysql.com/downloads/shell/)
+
+## Instructions
 1. Clone the repository:
 ```
 git clone https://github.com/kaiser018/amihan
