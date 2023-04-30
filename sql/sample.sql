@@ -1,0 +1,1 @@
+INSERT INTO users (name, email, age) VALUES ('Kaiser Dapar', 'kaiserdapar@gmail.com', 31);
